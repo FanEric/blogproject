@@ -25,7 +25,7 @@ SECRET_KEY = '0hlj2&u15f%_=!y-osce7r&^hup8&j97h+@36fka8nt1i_piu3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.douyi.site']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '106.12.38.21']
 
 
 # Application definition
